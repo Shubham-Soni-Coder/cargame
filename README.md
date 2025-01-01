@@ -35,4 +35,4 @@ In this Car Game, the player controls a car that must navigate through a series 
 
 - **Speed Boost**: Temporarily increases the car's speed.
 - **Shield**: Provides temporary protection from obstacles.
-- **Score Multiplier**: Doubles the points earned for a limited time.
+- **Score Multiplier**: Doubles the points earned for a limited time.   
